@@ -11,6 +11,8 @@ Repositório criado para entrega do projeto do primeiro PSET do semestre da mat�
 
 Matrícula: 202308630
 
+Turma: CC1MA
+
 Email: arthurzico.rueda@gmail.com
 
 Tecnologias utilizadas: SQL Power Architect, PostgreSQL e DBeaver.
